@@ -1,0 +1,14 @@
+{
+  "owner": "FrankieGhaf",
+  "repositories": [
+    {
+      "source": "infiniflow/ragflow",
+      "name": "ragflow",
+      "branch": "main",
+      "stars": 91150,
+      "license": "Apache-2.0",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "origin": "git@github-frankie-ragflow:FrankieGhaf/ragflow.git"
+    }
+  ]
+}
